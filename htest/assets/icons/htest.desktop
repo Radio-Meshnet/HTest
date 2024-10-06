@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=Application
+Exec=htest
+TryExec=htest
+MimeType=
+Icon=htest.png
+X-DocPath=
+Terminal=false
+Name=HTest
+GenericName=HTest
+Comment=
+Categories=Network;InstantMessaging
